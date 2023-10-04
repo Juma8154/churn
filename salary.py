@@ -13,8 +13,8 @@ import matplotlib.pyplot as plt
 # In[3]:
 
 
-data = pd.read_csv("./Documents/machine learning/Salary Dataset.csv")
-data2 = pd.read_csv("./Documents/machine learning/Partially Cleaned Salary Dataset.csv")
+data = pd.read_csv("C:\Users\GEEK\Documents\salary.py")
+data2 = pd.read_csv("C:\Users\GEEK\Documents\salary.py/Partially Cleaned Salary Dataset.csv")
 
 
 # In[5]:
